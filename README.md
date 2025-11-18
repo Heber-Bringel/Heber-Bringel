@@ -9,7 +9,7 @@ Estou no **2º período** e focado em construir uma base sólida, combinando os 
 Tenho experiência e estou em constante aprendizado nas seguintes tecnologias:
 
 * **Linguagens:** Java, TypeScript, JavaScript
-* **Frameworks:** Spring Boot (Java)
+* **Frameworks:** Spring Boot (Java) Express (Node.js)
 * **Banco de Dados:** PostgreSQL
-* **Ferramentas:** Git, GitHub, Node.js
+* **Ferramentas:** Git, GitHub
 ---
