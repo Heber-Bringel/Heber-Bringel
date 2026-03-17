@@ -2,7 +2,7 @@
 
 Desenvolvedor Backend e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-Estou no **2º período** e focado em construir uma base sólida, combinando os conceitos de algoritmos com a prática de tecnologias modernas. Sou apaixonado por resolver problemas e levar projetos do conceito à implementação.
+Estou no **3º período** e focado em construir uma base sólida, combinando os conceitos de algoritmos com a prática de tecnologias modernas. Sou apaixonado por resolver problemas e levar projetos do conceito à implementação.
 
 ## 🛠️ Minhas Habilidades e Tecnologias
 
