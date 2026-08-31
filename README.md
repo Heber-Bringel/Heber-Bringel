@@ -14,7 +14,7 @@
 
 | | |
 |---|---|
-| 🎓 | Graduando em **Análise e Desenvolvimento de Sistemas (ADS)** (3º período) |
+| 🎓 | Graduando em **Análise e Desenvolvimento de Sistemas (ADS)** (4º período) |
 | 💻 | Desenvolvedor **Full Stack** com foco em Java, TypeScript, Spring Boot, Node.js e React |
 | 🚀 | Apaixonado por resolver problemas e levar projetos do conceito à implementação com boas práticas |
 
